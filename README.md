@@ -1,2 +1,2 @@
 # Methanosarcina
-Modeling framework for Methanosarcina metabolism
+Files fro modeling and analyzing Methanosarcina metabolism
