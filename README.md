@@ -1,2 +1,2 @@
 # Methanosarcina
-Files fro modeling and analyzing Methanosarcina metabolism
+Files in SBML and COPASI formats for simulating the growth of Methanosarcina barkeri
